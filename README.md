@@ -103,20 +103,6 @@ This project demonstrates how to build an environmental monitoring system using 
 3. **View Data**:
    - Navigate to `http://localhost/midterm.php` in your web browser to see the stored sensor data.
 
-## Troubleshooting
-
-- **No Data in Database**:
-  - Ensure the ESP8266 is correctly connected to Wi-Fi.
-  - Verify the server IP address and path in the ESP8266 code.
-  - Check the PHP script for errors in handling the incoming POST request.
-
-- **Wi-Fi Connection Issues**:
-  - Double-check the SSID and password.
-  - Ensure the Wi-Fi network is available and the ESP8266 is within range.
-
-- **PHP/MySQL Issues**:
-  - Make sure Apache and MySQL are running in XAMPP.
-  - Verify the database schema and that the PHP script has correct permissions.
 
 
 ## Acknowledgements
