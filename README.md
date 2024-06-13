@@ -1,4 +1,5 @@
 # ESP8266 Environmental Monitoring System with Database Storage
+Prepared by: Nur Ezurin Farisha binti Jusshairi (284353)
 
 ## Overview
 This project demonstrates how to build an environmental monitoring system using the ESP8266 microcontroller. The system collects data from a DHT11 temperature and humidity sensor and a US016 ultrasonic distance sensor. The collected data is transmitted to a backend server and stored in a MySQL database. The stored data can be viewed on a web interface.
